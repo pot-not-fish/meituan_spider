@@ -1,0 +1,46 @@
+headers:
+  Accept: application/json
+  Accept-Encoding: Accept-Encoding
+  Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+  Connection: keep-alive
+  Content-Type: application/x-www-form-urlencoded
+  Cookie: _lxsdk_cuid=189144c050fc8-0d9f9f7669377d-26031d51-144000-189144c050fc8; WEBDFPID=521vv0805z9v5zx3zv5172632142z7xz810855w5v4597958xx4zy8u4-2003622755659-1688262755255UGWMQWGfd79fef3d01d5e9aadc18ccd4d0c95078942; _hc.v=11347e9c-8335-678d-d5e7-6af041a3d329.1688262756; qruuid=f97f2c1b-5c4d-4515-a84d-02ba6c7b0397; uuid=238c95a614e14285a5eb.1709201680.1.0.0; iuuid=58299DAD335AFEC87C0297459F42304E577B0AAB9AE52CCDDF336C4357E65346; isid=AgEXJOlRDrGyS_yeCoiACTmQkCsP53YzyToksgxssQ34HBWgiPgLYTrTaHHneUD9atBaabuesfi-CQAAAAB_HgAA7v8XTLHJsirNOSMdtzyxWr6ZeL6ZNdvnx_MfQbTlwy4rPaKgzFEDUUJ3qu8FwUmd; logintype=normal; ci=20; cityname=%E5%B9%BF%E5%B7%9E; _lxsdk=58299DAD335AFEC87C0297459F42304E577B0AAB9AE52CCDDF336C4357E65346; __utma=74597006.208927717.1709201746.1709201746.1709201746.1; __utmz=74597006.1709201746.1.1.utmcsr=bing.com|utmccn=(referral)|utmcmd=referral|utmcct=/; latlng=23.133608,113.342458,1709202283951; webp=1; i_extend=C_b1E147765543189386854698578281659327391350_e-1503830010339408434_a%e8%8c%b6%e6%95%91%e6%98%9f%e7%90%83%c2%b7%e8%94%ac%e6%9e%9c%e8%8c%b6H__a100038__b1; wm_order_channel=default; utm_source=; terminal=i; w_utmz="utm_campaign=(direct)&utm_source=5000&utm_medium=(none)&utm_content=(none)&utm_term=(none)"; openh5_uuid=58299DAD335AFEC87C0297459F42304E577B0AAB9AE52CCDDF336C4357E65346; token=AgFwH9TE2GB1EUK9p5S3taqC5gKTv0WQWYKb5aWiv0eVTpcELcnGxj3JJ12rbuzYt-sFWbeXfQzpJQAAAAB1HgAAQGhiPnKWAHTFS7E3O9kv-D90BykZvDZkHze_LmAUMtyKZyM4nOyQT9OdvOgCaAHE; mt_c_token=AgFwH9TE2GB1EUK9p5S3taqC5gKTv0WQWYKb5aWiv0eVTpcELcnGxj3JJ12rbuzYt-sFWbeXfQzpJQAAAAB1HgAAQGhiPnKWAHTFS7E3O9kv-D90BykZvDZkHze_LmAUMtyKZyM4nOyQT9OdvOgCaAHE; oops=AgFwH9TE2GB1EUK9p5S3taqC5gKTv0WQWYKb5aWiv0eVTpcELcnGxj3JJ12rbuzYt-sFWbeXfQzpJQAAAAB1HgAAQGhiPnKWAHTFS7E3O9kv-D90BykZvDZkHze_LmAUMtyKZyM4nOyQT9OdvOgCaAHE; userId=2407511285; w_token=AgFwH9TE2GB1EUK9p5S3taqC5gKTv0WQWYKb5aWiv0eVTpcELcnGxj3JJ12rbuzYt-sFWbeXfQzpJQAAAAB1HgAAQGhiPnKWAHTFS7E3O9kv-D90BykZvDZkHze_LmAUMtyKZyM4nOyQT9OdvOgCaAHE; au_trace_key_net=default; openh5_uuid=58299DAD335AFEC87C0297459F42304E577B0AAB9AE52CCDDF336C4357E65346; isIframe=false; _ga=GA1.3.208927717.1709201746; _gid=GA1.3.507600747.1709554343; _ga_NMY341SNCF=GS1.3.1709554343.1.0.1709554343.0.0.0; _lx_utm=utm_source%3Dbing%26utm_medium%3Dorganic; w_visitid=6dfc0b85-9f53-4475-92ce-f868786c4855; channelType={%22default%22:%220%22}; _lxsdk_s=18e0a0e938c-7d-e5f-923%7C%7C47
+  Host: i.waimai.meituan.com
+  Mtgsig: '{"a1":"1.1","a2":1709565750672,"a3":"521vv0805z9v5zx3zv5172632142z7xz810855w5v4597958xx4zy8u4","a5":"bVg4SuYWrBSpmG2PBTqhlRtW4vzAnEQQzZ==","a6":"h1.5mQ9j9Zis55Oa4HQH1MmModDSCiMCppiT2tkjJahGumWdvnib/2jk774p65z1p0sxmNYrJxHddoz0LXD1YPycFZJnHWYWadCMkkQxY00RNRm+P8kHuIfWqxw/6TO3OlXzUKx3G+UEcL/ZF95fOD+4pCIyMXO9Fe28L90ZvlqHDiD8iiDAjzMFq9n1vKgt9GcdC+BwZSe0o1R3G6O/1fKnJcTmcpjw+zoob9O3dyuv256s21WcSYAw4+DsgN8EGY5zFjl5nt09AtGcJRyin23Waw==","x0":4,"d1":"6726a4558f6eeb1ed2868351e8484f69"}'
+  Origin: https://h5.waimai.meituan.com
+  Referer: https://h5.waimai.meituan.com/
+  Sec-Fetch-Dest: empty
+  Sec-Fetch-Mode: cors
+  Sec-Fetch-Site: same-site
+  User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/122.0.0.0
+
+payload:
+  optimus_code: 10
+  optimus_risk_level: 71
+  lng: 113.410307
+  lat: 23.016178
+  gpsLng: 113.410307
+  gpsLat: 23.016178
+  shopId: -1
+  mtWmPoiId: 915495050800287
+  poi_id_str: "GpEFxkIu5ewJG4OAQL2LGwI"
+  labelId: 0
+  scoreType: 3
+  uuid: "58299DAD335AFEC87C0297459F42304E577B0AAB9AE52CCDDF336C4357E65346"
+  platform: 3
+  partner: 4
+  originUrl: "https://h5.waimai.meituan.com/waimai/mindex/menu?mtShopId=1121696430564159&poi_id_str=GpEFxkIu5ewJG4OAQL2LGwI&dishId=&source=shoplist&utm_source=&channel=default&mtOrderId=&h5_detail_back=&initialLat=23.016178&initialLng=113.410307&actualLat=23.016178&actualLng=113.410307"
+  riskLevel: 71
+  optimusCode: 10
+  wm_latitude: 23016178
+  wm_longitude: 113410307
+  wm_actual_latitude: 23016178
+  wm_actual_longitude: 113410307
+  wmUuidDeregistration: 0
+  wmUserIdDeregistration: 0
+  openh5_uuid: "58299DAD335AFEC87C0297459F42304E577B0AAB9AE52CCDDF336C4357E65346"
+  _token: "eJztVFmvqzYY/C+RTl4SBTD7kaKrQBKyL5DtpKoiA2Y5YCBgCEnV/17n5qxXrdSXvlWyxOeZsQ3fDP6jkY/dxjPHcjLLtRsVyhvPDa7DdqRGu0EKysisKnEcJ/KiILcbzhcMcKrCiu2Gne/6jeffeFlsS5L8+x0w6fwT+KyAQMddMaaCRkBIVjwzTCB2LjDEMOxgFJISJh0nxcwDYnCYuKhmMErKH5hYQZqN3a7KiYIqsiKrsCxQ5GaWhqfQPRUk79aBNB1hw5yK+aSa2EbFyuHmMm66YRHQlc0iLXMHdQu6URwWpFkSfHrDmk4AkwTFXRd5sIxJE5Nl7qL8viwQTy4iMIxPNnSibjNMQhLCeAZJF/AdlpM4WfkAE7/LcXxH4FielZvQod/0i/IN+y7MUZGlSYFOTuqiLlRlFghAcXgEBdFVFBnZnookifNEB6iIys8lKshDzboAOAr0HODZAm+7iivIqgyBIjmc6LCI2vnebmpy6F2/9boCzAXZjI8SlMP4lEEf/XjbXv83uzdRUnWzPG0WpePoMI7vTdrmcffnmU987wkM6fhboyn+AGnxMPteULuf+OG74U98/xfLn4D0aTql/8F2KnsYTyW0fhhN63f7KfYZgIfmLQR08hYDin0E4SH5HoYH9hkIOv8w+guR+JT4dJsyH8H4ZcVHOL4taHr0wP97+9/09pq6UE8xTpNNgDDS0zjNu0+AHw51nmV/0lpJCKVRTT5YAEATujAjdApLkjbo1YY396uN4+Q2kMQ7EN0B+oRfiXZ/vLuT5J2c03uX/qNF6Ce0QpMriYphCW69eUBasaaC/XUyicF6OR8f9tYMA62/K2ejNXeM8DKIS3PikLPKmH7UE9MgqDkw4OXWZL5fVYt4peyMCJPe8Jae53HLT8sRcI8HyzyKQfga2aZ0MBLoXytVkWsW25s+U+2Mm7Y3nCIPgqicWy+xycuWjftkpZFdIU623OHMZZlFQ1hiscfioaMeicNOag8bzkGa7aTKhvkuyIxkL11BbB4Xm/rVGaZ8pNXHae2Aq8ImeyNaq9hW65uxLILMilsHXRiRxN/V/vlWLM7R3g6H6ugoRpm9X04PXhxDuXVcLPiLwxy8pBIHXL7TyOa8aBlCadwqrwKX+UwVbEleAq1MYpG3JpGw1uHU80WLqwfTV+sFL3TPTl63kdYynBEuY3QzVvpaU/XtefRS5+ttP53MZehGusLNCyEaK/Zs413M2W0w0zcrVdzUeaxAX2iZLjdllTQY7+rrOsmgCcXBdTdxXffQwuF1lGILHjQmWe3nR97Za4PQUoczNnFEeWdlTizWayfTj1Ed0vcyI7IMbmQwMNWR/GJU0ky96qHVWrV8bYvGMFQHA4Y5nv2RcE52h0tvsR0R/jBcjFctD/OYuzGDsXcGfb5YQj96NZZXf9XbBxdzL66sYfHSx8I4HOivgxbh54gB2VVbr9jlSFrst1NVsnm5Sgxt3W38+RfZmJQ8"
+
+poi_id_str:
+  - xh6KHmGRK5rJvJbGv07iTwI
+  - hsf84EPuJF0VH2YYkXwQagI
